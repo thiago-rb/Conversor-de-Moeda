@@ -1,0 +1,8 @@
+C:\Users\thiag\Desktop\Udemy C#\Membros Estáticos\MembroEstaticoExercicio\MembroEstaticoExercicio\bin\Debug\MembroEstaticoExercicio.exe.config
+C:\Users\thiag\Desktop\Udemy C#\Membros Estáticos\MembroEstaticoExercicio\MembroEstaticoExercicio\bin\Debug\MembroEstaticoExercicio.exe
+C:\Users\thiag\Desktop\Udemy C#\Membros Estáticos\MembroEstaticoExercicio\MembroEstaticoExercicio\bin\Debug\MembroEstaticoExercicio.pdb
+C:\Users\thiag\Desktop\Udemy C#\Membros Estáticos\MembroEstaticoExercicio\MembroEstaticoExercicio\obj\Debug\MembroEstaticoExercicio.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Udemy C#\Membros Estáticos\MembroEstaticoExercicio\MembroEstaticoExercicio\obj\Debug\MembroEstaticoExercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\Desktop\Udemy C#\Membros Estáticos\MembroEstaticoExercicio\MembroEstaticoExercicio\obj\Debug\MembroEstaticoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Udemy C#\Membros Estáticos\MembroEstaticoExercicio\MembroEstaticoExercicio\obj\Debug\MembroEstaticoExercicio.exe
+C:\Users\thiag\Desktop\Udemy C#\Membros Estáticos\MembroEstaticoExercicio\MembroEstaticoExercicio\obj\Debug\MembroEstaticoExercicio.pdb
